@@ -1,4 +1,8 @@
 # Foodie
+A restaurant brand called Foodie has a new static design image for their website.  
+They want a team of developers to turn this design into a working website using only HTML + CSS.  
+
+Because the file is only an image (not interactive), your team must use creativity and estimation to replicate the design as closely as possible.
 
 ## Navigation
 <!-- This is the navigation bar -->
@@ -31,3 +35,14 @@ https://github.com/user-attachments/assets/2cb330df-4786-4eb1-99fd-9223a6c71819"
 ## Footer
 <!-- This contains the footer -->
 "https://github.com/user-attachments/assets/4015ab84-5f87-4fa4-8239-ec768b0f15e7" />
+
+## Figma Link
+https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&t=7HgXSe0GPHWqrbDV-1  
+
+## Team Members
+1. Adeleke Kehinde - Content Writer and HTMl Lead
+2. Adeboye AbdulMalik - CSS Designer and HTML lead
+3. Odushile Omodolapo - Quality Checker and Implimentation
+
+## How to view the project (local or via GitHub Pages).
+alt b
