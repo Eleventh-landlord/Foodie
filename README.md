@@ -45,4 +45,6 @@ https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&t=7HgXSe0
 3. Odushile Omodolapo - Quality Checker and Implimentation
 
 ## How to view the project (local or via GitHub Pages).
-alt b
+download extension "Techer"
+Then press alt b
+
