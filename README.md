@@ -1,2 +1,33 @@
 # Foodie
 
+## Navigation
+<!-- This is the navigation bar -->
+"https://github.com/user-attachments/assets/54f12319-0f15-49eb-80fd-8680d2a0c786" />
+
+## Home
+<!-- This is the home bar -->
+https://github.com/user-attachments/assets/2cb330df-4786-4eb1-99fd-9223a6c71819" />
+
+## Order
+<!-- This is the Order bar -->
+"https://github.com/user-attachments/assets/682d4007-fab5-4d53-9ff6-495757ec036b" />
+
+## Menu
+<!-- This is the menu bar -->
+"https://github.com/user-attachments/assets/5ee2c174-195c-4d17-9db4-8a95256a084b" />
+
+## About
+<!-- This is the about page -->
+"https://github.com/user-attachments/assets/1c353645-214b-46fc-9487-7370929350cc" />
+
+## Customer
+<!-- This is the customer page -->
+"https://github.com/user-attachments/assets/3dae491e-9b06-4935-b8b6-99817133accd" />
+
+## Contact
+<!-- This is the contact form -->
+"https://github.com/user-attachments/assets/10dadff4-0c4c-41b6-aa52-9ac9671e6488" />
+
+## Footer
+<!-- This contains the footer -->
+"https://github.com/user-attachments/assets/4015ab84-5f87-4fa4-8239-ec768b0f15e7" />
