@@ -6,7 +6,7 @@ Because the file is only an image (not interactive), your team must use creativi
 
 ## Navigation
 <!-- This is the navigation bar -->
-"https://github.com/user-attachments/assets/54f12319-0f15-49eb-80fd-8680d2a0c786" />
+<img width="1905" height="89" alt="Image" src="https://github.com/user-attachments/assets/54f12319-0f15-49eb-80fd-8680d2a0c786" />
 
 ## Home
 <!-- This is the home bar -->
