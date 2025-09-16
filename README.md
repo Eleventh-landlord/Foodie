@@ -5,29 +5,29 @@ They want a team of developers to turn this design into a working website using 
 Because the file is only an image (not interactive), your team must use creativity and estimation to replicate the design as closely as possible.
 
 ## Navigation
-<!-- This is the navigation bar -->
+This is the navigation bar
 <img width="1905" height="89" alt="Image" src="https://github.com/user-attachments/assets/54f12319-0f15-49eb-80fd-8680d2a0c786" />
 
 ## Home
-<!-- This is the home bar -->
+This is the home bar
 <img width="1901" height="402" alt="Image" src="https://github.com/user-attachments/assets/2cb330df-4786-4eb1-99fd-9223a6c71819" />
 
 ## Order
-<!-- This is the Order bar -->
+This is the Order bar
 <img width="1879" height="572" alt="Image" src="https://github.com/user-attachments/assets/682d4007-fab5-4d53-9ff6-495757ec036b" />
 
 
 ## Menu
-<!-- This is the menu bar -->
+This is the menu bar
 <img width="1877" height="688" alt="Image" src="https://github.com/user-attachments/assets/5ee2c174-195c-4d17-9db4-8a95256a084b" />
 
 ## About
-<!-- This is the about page -->
+This is the about page
 <img width="1908" height="440" alt="Image" src="https://github.com/user-attachments/assets/1c353645-214b-46fc-9487-7370929350cc" />
 
 ## Customer
-<!-- This is the customer page -->
-"https://github.com/user-attachments/assets/3dae491e-9b06-4935-b8b6-99817133accd" />
+This is the customer review page 
+<img width="1863" height="579" alt="Image" src="https://github.com/user-attachments/assets/3dae491e-9b06-4935-b8b6-99817133accd" />
 
 ## Contact
 <!-- This is the contact form -->
