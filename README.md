@@ -23,7 +23,7 @@ Because the file is only an image (not interactive), your team must use creativi
 
 ## About
 <!-- This is the about page -->
-"https://github.com/user-attachments/assets/1c353645-214b-46fc-9487-7370929350cc" />
+<img width="1908" height="440" alt="Image" src="https://github.com/user-attachments/assets/1c353645-214b-46fc-9487-7370929350cc" />
 
 ## Customer
 <!-- This is the customer page -->
