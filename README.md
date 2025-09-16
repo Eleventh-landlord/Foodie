@@ -44,6 +44,6 @@ This contains the footer
 3. Odushile Omodolapo - Quality Checker and Implimentation
 
 ## How to view the project (local or via GitHub Pages).
-download extension "Techer"
+Download an extension called "Techer"
 Then press alt b
 
