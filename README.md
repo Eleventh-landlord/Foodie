@@ -19,7 +19,7 @@ Because the file is only an image (not interactive), your team must use creativi
 
 ## Menu
 <!-- This is the menu bar -->
-"https://github.com/user-attachments/assets/5ee2c174-195c-4d17-9db4-8a95256a084b" />
+<img width="1877" height="688" alt="Image" src="https://github.com/user-attachments/assets/5ee2c174-195c-4d17-9db4-8a95256a084b" />
 
 ## About
 <!-- This is the about page -->
