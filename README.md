@@ -14,7 +14,8 @@ Because the file is only an image (not interactive), your team must use creativi
 
 ## Order
 <!-- This is the Order bar -->
-"https://github.com/user-attachments/assets/682d4007-fab5-4d53-9ff6-495757ec036b" />
+<img width="1879" height="572" alt="Image" src="https://github.com/user-attachments/assets/682d4007-fab5-4d53-9ff6-495757ec036b" />
+
 
 ## Menu
 <!-- This is the menu bar -->
