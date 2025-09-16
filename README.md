@@ -37,8 +37,6 @@ This is the contact form
 This contains the footer
 <img width="1900" height="258" alt="Image" src="https://github.com/user-attachments/assets/4015ab84-5f87-4fa4-8239-ec768b0f15e7" />
 
-## Figma Link
-<img width="1900" height="258" alt="Image" src="https://www.figma.com/design/gy3gjJwI0IZwQB6SZqrWTN/Foodie?node-id=0-1&t=7HgXSe0GPHWqrbDV-1" />  
 
 ## Team Members
 1. Adeleke Kehinde - Content Writer and HTMl Lead
