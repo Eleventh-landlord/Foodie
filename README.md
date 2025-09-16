@@ -30,11 +30,11 @@ This is the customer review page
 <img width="1863" height="579" alt="Image" src="https://github.com/user-attachments/assets/3dae491e-9b06-4935-b8b6-99817133accd" />
 
 ## Contact
-<!-- This is the contact form -->
-"https://github.com/user-attachments/assets/10dadff4-0c4c-41b6-aa52-9ac9671e6488" />
+This is the contact form
+<img width="1884" height="441" alt="Image" src="https://github.com/user-attachments/assets/10dadff4-0c4c-41b6-aa52-9ac9671e6488" />
 
 ## Footer
-<!-- This contains the footer -->
+This contains the footer
 "https://github.com/user-attachments/assets/4015ab84-5f87-4fa4-8239-ec768b0f15e7" />
 
 ## Figma Link
