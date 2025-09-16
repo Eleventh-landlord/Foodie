@@ -10,7 +10,7 @@ Because the file is only an image (not interactive), your team must use creativi
 
 ## Home
 <!-- This is the home bar -->
-https://github.com/user-attachments/assets/2cb330df-4786-4eb1-99fd-9223a6c71819" />
+<img width="1901" height="402" alt="Image" src="https://github.com/user-attachments/assets/2cb330df-4786-4eb1-99fd-9223a6c71819" />
 
 ## Order
 <!-- This is the Order bar -->
